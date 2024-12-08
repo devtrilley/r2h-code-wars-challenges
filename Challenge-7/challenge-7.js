@@ -28,3 +28,9 @@ function moveZeros(arr) {
 }
 
 console.log(moveZeros([false, 1, 0, 1, 2, 0, 1, 3, "a"]));
+
+/*
+  MY THOUGHTS:
+
+  Using the filter method then pushing the 0's back on the array by using a dynamic for loop was a crafty way to solve this problem. This one was tricky but fun.
+*/

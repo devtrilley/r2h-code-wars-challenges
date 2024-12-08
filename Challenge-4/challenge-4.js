@@ -25,3 +25,9 @@ console.log(nthSmallest([3, 1, 2], 2));
 console.log(nthSmallest([15, 20, 7, 10, 4, 3], 3));
 console.log(nthSmallest([2, 169, 13, -5, 0, -1], 4));
 console.log(nthSmallest([2, 1, 3, 3, 1, 2], 3));
+
+/*
+  MY THOUGHTS:
+
+  I utilized thre sort method knowledge that I gained in the last problem then used the position param to find the index of the chosen nth smallest element.
+*/

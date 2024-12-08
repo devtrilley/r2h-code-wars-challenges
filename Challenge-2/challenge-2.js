@@ -46,3 +46,10 @@ console.log(array("1,2,3,4,5"));
 console.log(array(""));
 console.log(array("1"));
 console.log(array("1,2"));
+
+
+/*
+  MY THOUGHTS:
+
+  This was a fun problem and it taught me a lot about how arrays work and can be modified/manipulated.
+*/

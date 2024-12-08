@@ -20,3 +20,9 @@ function sortByLength(array) {
 }
 
 console.log(sortByLength(["Telescopes", "Glasses", "Eyes", "Monocles"]));
+
+/*
+  MY THOUGHTS:
+
+  This problem was review on the sort method for me and taught me more of the compareFunction callback. I now know how to sort my arrays using multiple values other than numbers.
+*/

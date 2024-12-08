@@ -34,3 +34,9 @@ function createPhoneNumber(numbers) {
 console.log(createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0])); // "(123) 456-7890"
 console.log(createPhoneNumber([1, 1, 1, 1, 1, 1, 1, 1, 1, 1])); // "(111) 111-1111"
 console.log(createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0])); // "(123) 456-7890"
+
+/*
+  MY THOUGHTS:
+
+  I initially clicke don this problem believing it would have somethign to do with regular expression. Rather it was an accumulator question with some quirks. I believe my solution was creative and demonstrates my knowledge.
+*/

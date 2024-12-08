@@ -53,3 +53,9 @@ console.log(
     "Israel",
   ])
 );
+
+/*
+  MY THOUGHTS:
+
+  While this problem seemed difficult at first, I started to find it much more simple once I realized it was simply if statements and interpolation. Overall a fun puzzle to solve!
+*/

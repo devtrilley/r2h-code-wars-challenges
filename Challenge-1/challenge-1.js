@@ -60,3 +60,9 @@ console.log(numbers.average()); // must return 3
 console.log(numbers.sum()); // must return 15
 console.log(numbers.even()); // must return [2, 4]
 console.log(numbers.odd()); // must return [1, 3, 5
+
+/*
+  MY THOUGHTS:
+
+  This problem was quite the challenge however as I broke down logic step by step I found ways to simplify my code and find the solution.
+*/

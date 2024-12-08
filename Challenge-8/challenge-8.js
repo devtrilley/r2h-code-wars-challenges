@@ -40,3 +40,9 @@ function grader(score) {
 console.log(grader(0.7));
 console.log(grader(0.9));
 console.log(grader(0.6));
+
+/*
+  MY THOUGHTS:
+
+  I initially tried this problem with switch cases but then rembered that switch case are only for when you're expecting an exact result. If statemtns are better suited for ranges like what this problem requires. Nonetheless, a fun solve.
+*/
